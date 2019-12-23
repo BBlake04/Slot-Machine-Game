@@ -1,5 +1,5 @@
 
-public class Name {
+public class Name {	//Simple Name class for parameters
 	public String firstName;
 	public String suffix;
 	public String lastName;
