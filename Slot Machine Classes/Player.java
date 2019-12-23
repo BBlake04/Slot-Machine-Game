@@ -1,5 +1,5 @@
 
-public class Player {
+public class Player {	//Simple Player class for personal parameters
 	
 	public String name;
 	public String birthday;
