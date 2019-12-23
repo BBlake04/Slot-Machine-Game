@@ -3,13 +3,13 @@ import javax.swing.JOptionPane;
 public class TestClass {
 
 	public static void main(String[] args) {
-		Name name = new Name("Brandon", "M", "Blake", null); // Unsure where to use these.
+		Name name = new Name("Brandon", "M", "Blake", null); //My personal signature, very professional.
 		Date date = new Date(6, 29, 17);
 
 		int x = 0;
 		int choice;
 		String input;
-		Player[] player = new Player[50]; // Create 50 Player Objects.
+		Player[] player = new Player[50]; //Hand create 50 Player Objects.
 
 		player[0] = new Player("Aunt Vera", "Jan. 7th.", 100);
 		player[1] = new Player("George Tomacloty", "Apr. 12th.", 59);
