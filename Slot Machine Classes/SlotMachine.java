@@ -1,5 +1,5 @@
 
-public class SlotMachine {
+public class SlotMachine {	//SlotMachine class for a ton of parameters to be used later
 	public String machineName;
 	public int machineBalance;
 	public int noJackpotsPaid;
