@@ -1,5 +1,5 @@
 
-public class Date {
+public class Date {	//Simple Date class for parameters
 	public int month;
 	public int day;
 	public int year;
